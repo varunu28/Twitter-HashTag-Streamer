@@ -15,7 +15,7 @@ A Python script to stream tweets related to a Hashtag ans save it to an S3 bucke
  - Install the required libraries by running ```pip install -r requirements.txt``` in a virtual environment.
  - Create a Twitter application on the Twitter developer portal
  - Generate the token and and key for the application
- - Create a file ```twitter_credentials.py``` and fill the key and tokens in below template
+ - Create a file ```credentials.py``` and fill the key and tokens in below template
  	```
  	ACCESS_TOKEN = ""
 	ACCESS_TOKEN_SECRET = ""
