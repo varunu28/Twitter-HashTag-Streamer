@@ -1,0 +1,8 @@
+# HashTag/Keyword list
+hash_tag_list: ['#cmpe295A']
+
+# File name where tweets have to be saved
+fetched_tweets_filename : tweets.json
+
+# Bucket name
+bucket_name : #####
