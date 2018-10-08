@@ -1,5 +1,5 @@
 # Twitter-HashTag-Streamer
-A Python script to stream tweets related to a Hashtag ans save it to an S3 bucket
+A Python script to stream tweets related to a Hashtag ans save it to an S3 bucket as a JSON file
 
 ![Demo](demo.gif)
 
@@ -8,6 +8,7 @@ A Python script to stream tweets related to a Hashtag ans save it to an S3 bucke
  - [X] Create streaming application to stream live tweets
  - [X] Create S3 config using boto framework
  - [X] Save every new tweet as a JSON to the S3 bucket
+ - [ ] Add multithreading for large streamings
 
 ## How to run the  script?
 
